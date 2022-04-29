@@ -1,0 +1,12 @@
+---
+pid: obj3
+label: The Dragon Can't Dance
+artist: Earl Lovelace
+_date: '1979'
+location: Trinidad
+order: '02'
+layout: Sample_Pics_item
+collection: Sample_Pics
+thumbnail: "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj3/manifest.json"
+---
