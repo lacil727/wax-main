@@ -9,4 +9,5 @@ layout: Sample_Pics_item
 collection: Sample_Pics
 thumbnail: "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg"
 manifest: "/img/derivatives/iiif/obj9/manifest.json"
+full: "/img/derivatives/iiif/images/obj9/full/1140,/0/default.jpg"
 ---
